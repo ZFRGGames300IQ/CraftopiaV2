@@ -1,0 +1,15 @@
+name: Tresor
+version: 1.0
+author: GGames
+description: les tresors
+
+main: tresor.Tresor
+
+commands:
+  tresor:
+    description: test
+    usage: /tresor
+    
+  pay:
+    description: Donne les point boutique
+    usage: /pay <player> <amount>
